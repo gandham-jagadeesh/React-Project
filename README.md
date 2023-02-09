@@ -1,2 +1,1 @@
-# React-Project
-Shows Tourist places 
+## React Projects Starter APP
